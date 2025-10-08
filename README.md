@@ -38,8 +38,8 @@ It visualizes key business metrics to help track sales performance and support d
 ### 📂 Files Included
 | File Name | Description |
 |------------|-------------|
-| `SalesDashboard.pbix` | Power BI dashboard file |
-| `dashboard_preview.png` | Dashboard preview image |
+| `sales_dashboard.pbix` | Power BI dashboard file |
+| `preview.png` | Dashboard preview image |
 | `README.md` | Project documentation |
 
 ---
